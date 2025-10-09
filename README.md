@@ -1,15 +1,14 @@
-# Project Title (This is a template README.md file that you can adapt to your project)
+# Education
 
-> A brief description of what the project does and its purpose.
-
+> The purpose of the assignment is to perform work using the data science methodology to answer the question of whether school performance is predicted by socioeconomic factors.
 ---
 
 ## Project Overview
 
-Provide a short and concise overview of the project. Mention the problem it solves, the data used, and the key outcomes or findings.
+Use the data science methodology to answer the question of whether school performance, measured by the average ACT score, is predicted by socioeconomic factors.
 
-- **Objective:** Clearly state the main goal of the project.
-- **Domain:** (e.g., Healthcare, Finance, E-commerce, etc.)
+- **Objective:** school performance is predicted by socioeconomic factors
+- **Domain:** Education
 - **Key Techniques:** (e.g., Regression, Classification, Clustering, NLP, Time Series)
 
 ---
@@ -48,7 +47,7 @@ Include a short discussion of the findings and what they imply.
 
 ## Authors
 
-- Your Name - [@yourhandle](https://github.com/yourhandle)
+- Jimmy Nam - [@jimmynam0103](https://github.com/Jimmynam0103/Education)
 
 ---
 
