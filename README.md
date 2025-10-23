@@ -28,8 +28,7 @@ Use the data science methodology to answer the question of whether school perfor
 ## Data
 
 - **Source:** Link to the data source(s) 
-- **Description:** Brief overview of the dataset features, size, and format
-- **License:** (if applicable)
+- **Description:** SCHOOL_YEAR: year, NCESSCH: id, LSTATE: state, LZIP: zip_code, SCH_TYPE_TEXT: school_type, LEVEL: school_level, CHARTER_TEXT: charter
 
 ---
 
