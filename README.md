@@ -9,7 +9,7 @@ Use the data science methodology to answer the question of whether school perfor
 
 - **Objective:** school performance is predicted by socioeconomic factors
 - **Domain:** Education
-- **Key Techniques:** (e.g., Regression, Classification, Clustering, NLP, Time Series)
+- **Key Techniques:** Data Inspection, Data Manipulation, Data Cleaning, Tidy, Matplotlib, Seaborn, Data Visualization, Sklearn, NumPy
 
 ---
 
@@ -27,14 +27,22 @@ Use the data science methodology to answer the question of whether school perfor
 
 ## Data
 
-- **Source:** Link to the data source(s) 
+- **Source:** EdGap.org: (https://www.edgap.org/#5/37.718/-95.998), National Center for Education Statistics: (https://nces.ed.gov/ccd/pubschuniv.asp)
 - **Description:** SCHOOL_YEAR: year, NCESSCH: id, LSTATE: state, LZIP: zip_code, SCH_TYPE_TEXT: school_type, LEVEL: school_level, CHARTER_TEXT: charter
 
 ---
 
 ## Analysis
-
-Describe the notebooks and/or scripts used to perform the analysis. Specify the order in which the code should be run to reproduce the results.
+1. Open code/Weather_Data.ipynb
+2. Run all cells in order
+    - Load and inspect data set
+    - Convert data types of columns of the data frames to the correct type
+    - Clean Data (Removing unnecessary parts)
+    - Impute missing data (NaN values)
+    - Join the Seattle and New York City data frames [Date], [Precipitation]
+    - Ensure using tidy
+    - Rename columns
+    - Create data visualizations 
 
 ---
 
@@ -58,6 +66,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-- Tools/libraries used
-- Tutorials or papers referenced
-- Inspiration or collaborators
+- Tools/libraries: Python, Pandas, Numpy, Matplotlib, Seaborn, Sklearn, Tidyverse
+- Data Source: EdGap.org, National Center for Education Statistics
+- Inspiration: Education Analysis
+
+### Education Project
